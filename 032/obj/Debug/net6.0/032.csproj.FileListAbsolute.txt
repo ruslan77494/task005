@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Семинар 005\032\bin\Debug\net6.0\032.exe
+C:\Users\PC\Desktop\Семинар 005\032\bin\Debug\net6.0\032.deps.json
+C:\Users\PC\Desktop\Семинар 005\032\bin\Debug\net6.0\032.runtimeconfig.json
+C:\Users\PC\Desktop\Семинар 005\032\bin\Debug\net6.0\032.dll
+C:\Users\PC\Desktop\Семинар 005\032\bin\Debug\net6.0\032.pdb
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\032.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\032.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\032.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\032.AssemblyInfo.cs
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\032.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\032.dll
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\refint\032.dll
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\032.pdb
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\032.genruntimeconfig.cache
+C:\Users\PC\Desktop\Семинар 005\032\obj\Debug\net6.0\ref\032.dll
